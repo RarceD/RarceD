@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<h1 align="center"> Rubén Arce </h1>
+<h3 align="center">I am a Senior Full Stack Software Engineer and C# developer</h3>
+<h3 align="center">I like making games and padel apps with React</h3>
+
+- 🔭 I’m currently working in backend of a visualization and data analysis app.
+- 👨‍💻 I have hundreds of started projects and never ended.
+- ⚡ I like making stuff and then of course break it in many different ways.
 
 <!--
 **RarceD/RarceD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
