@@ -8,11 +8,13 @@
 - 👨‍💻 I have hundreds of started projects and never ended.
 - ⚡ I like making stuff and then of course break it in many different ways.
 
-[![Arced languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarced&layout=compact&theme=dark)](https://github.com/rarced/github-readme-stats)
+
 
 
 
 <!--
+[![Arced languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarced&layout=compact&theme=dark)](https://github.com/rarced/github-readme-stats)
+
 **RarceD/RarceD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
